@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- *_strcpy - function that copy a sting
+ * _strncpy - function that copies a string.
  *@dest: input value
  *@src: input value
  *@n: input value
